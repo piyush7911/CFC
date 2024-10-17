@@ -1,0 +1,20 @@
+{
+    "job_description": {
+        "responsibility": 0.4,
+        "skills": 0.25,
+        "experience": 0.15,
+        "qualifications": 0.1,
+        "keywords": 0.05,
+        "culture fit": 0.05,
+        "jd_data": {
+            "job_title": "Assistant Manager \u2013 HR Operations",
+            "responsibilities": "End to end Employee Life Cycle Management, HRIS Management, Recruitment & Onboarding, Data Analysis & Reporting, Facilitate Performance Reviews, Payroll Administration",
+            "required_skills": "HRIS, Budget Management, Attention to Details, MS Office, HR metrics, labor law, HR best practices",
+            "total_experience": "5 to 7 years",
+            "preferred_qualifications": "Master\u2019s degree in Human Resources",
+            "company_details": "Kotak Education Foundation (KEF)",
+            "industry_details": "Education, Non-profit",
+            "additional_criteria": "Flexibility & Adaptability, Solution oriented, Adhere to timelines, Team player, People oriented and results driven"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "candidate_name": "Rahul Dewoolkar",
+    "matching_score":71.7,
+    "skill_match": 68,
+    "experience_match": 70,
+    "culture_fit": 75,
+    "employed_status":"False",
+    "location":"Pune",
+    "total_experience": 5, 
+    "skills": ["Python", "ETL", "Data Analysis","Software Architecture"],
+    "summary":"Experienced Software Engineer with expertise in data analysis, ETL, and customized reporting.",
+    "current_role": "Software Application Engineer 2",
+    "recent_roles": [
+      {
+        "title": "Software Application Engineer 2",
+        "company": "Hewlett Packard",
+        "duration": "August 2022 - Present"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Ugam Solutions Pvt. Ltd",
+        "duration": "December 2020 - August 2022"
+      },
+      {
+        "title": "Technical Support Executive",
+        "company": "Cnergyis Infotech Pvt. Ltd",
+        "duration": "May 2018 - December 2020"
+      }
+    ],
+    "contact_info": {
+      "email": "sunil.dewoolkar@example.com",
+      "phone": "+1 (555) 123-4567",
+      "linkedin": "linkedin.com/in/sunildewoolkar"
+    },
+    
+    "resume_insights": {
+      "resume_length": "3 pages"
+    }
+  }

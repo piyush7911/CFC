@@ -1,0 +1,41 @@
+{
+    "resume_data": {
+        "Name": "Sunil Dewoolkar",
+        "Education": "Computer Engineering, VIVA Institute of Technology, 2017",
+        "Skills": "SQL, PostgreSQL, MySQL, Apache, Git, Shell Scripting, Redshift",
+        "Experience": [
+            {
+                "title": "Software Application Engineer 2",
+                "company": "Hewlett Packard",
+                "duration": "August 2022 - Present"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Ugam Solutions Pvt. Ltd",
+                "duration": "December 2020 - August 2022"
+            },
+            {
+                "title": "Technical Support Executive",
+                "company": "Cnergyis Infotech Pvt. Ltd",
+                "duration": "May 2018 - December 2020"
+            },
+            {
+                "title": "Web Developer",
+                "company": "Instinct Innovations Pvt. Ltd",
+                "duration": "November 2017 - April 2018"
+            }
+        ],
+        "Total_Experience": 6,
+        "Location": "Mumbai, Maharashtra, India",
+        "summary": "Experienced Software Engineer with 6+ years of experience in data analysis, identify patterns, and extract actionable insights and information from multiple sources.",
+        "employed_status": "employed",
+        "contact_info": {
+            "email": "sunildewoolkar18@gmail.com",
+            "phone": "9309571266",
+            "linkedin": "https://in.linkedin.com/in/sunil-dewoolkar-866884193"
+        },
+        "resume_insights": {
+            "Certifications": "DevOps On AWS"
+        }
+    }
+}
