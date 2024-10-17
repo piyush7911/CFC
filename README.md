@@ -36,8 +36,11 @@ pip install -r requirements.txt
 
 ## Run
 GO to expert-matching-system-backend Folder and run  app.py file.
+
 command python3 app.py
+
 Come back to main project directory and start frontend.
+
 command : npm start
 
 ##Demo Video
